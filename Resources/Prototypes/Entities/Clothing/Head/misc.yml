@@ -278,3 +278,14 @@
       - WhitelistChameleon
   - type: StaticPrice
     price: 1
+
+- type: entity
+  parent: ClothingHeadBase
+  id: ClothingHeadHatRainbowflower
+  name: rainbow flower
+  description: A rainbow flower for beautiful ladies.
+  components:
+  - type: Sprite
+    sprite: Clothing/Head/Misc/rainbowflower.rsi
+  - type: Clothing
+    sprite: Clothing/Head/Misc/rainbowflower.rsi
